@@ -1,0 +1,7 @@
+﻿  LR2.cpp
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР2\LR2\LR2\LR2.cpp(75,25): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР2\LR2\LR2\LR2.cpp(75,25): warning C4305:         with
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР2\LR2\LR2\LR2.cpp(75,25): warning C4305:         [
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР2\LR2\LR2\LR2.cpp(75,25): warning C4305:             _Ty=float
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР2\LR2\LR2\LR2.cpp(75,25): warning C4305:         ]
+  LR2.vcxproj -> C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР2\LR2\x64\Debug\LR2.exe
