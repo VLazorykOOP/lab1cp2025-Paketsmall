@@ -1,0 +1,18 @@
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\maria\OneDrive\Робочий стіл\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.pdb
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\mehal\OneDrive\Desktop\Подарунок\ЛР4\LR4\LR4\obj\Debug\LR4.pdb
